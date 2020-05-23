@@ -17,3 +17,10 @@ function johnLennonFacts(facts) {
   }
   return product
 }
+
+function iLoveTheBeatles(number) {
+  var product = [];
+  do 
+  
+  
+}
