@@ -6,5 +6,8 @@ function theBeatlesPlay(musicians,instruments) {
     product.push(`${singleMusician} plays ${singleInstrument}`)
   }
   return product
+}
+
+function johnLennonFacts() {
   
 }
