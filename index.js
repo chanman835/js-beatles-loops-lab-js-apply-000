@@ -12,7 +12,8 @@ function johnLennonFacts(facts) {
   var product = [];
   var count = 0;
   while (count < facts.length) {
-    product.push(facts[count])
+    product.push(`${facts[count]}!!!`);
+    count ++
   }
-  
+  return product
 }
