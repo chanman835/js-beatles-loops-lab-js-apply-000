@@ -3,7 +3,8 @@ function theBeatlesPlay(musicians,instruments) {
   for (let i = 0; i < musicians.length; i++) {
     let singleMusician = musicians[i];
     let singleInstrument = instruments[i];
-    product.push()
+    product.push(`${singleMusician} plays ${singleInstrument}`)
   }
+  return product
   
 }
